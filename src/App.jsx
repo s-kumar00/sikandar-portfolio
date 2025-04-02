@@ -15,7 +15,7 @@ import Footer from './components/footer/Footer'
 import Theme from './components/theme/Theme'
 
 const RouterWrapper = ({ children, activeNav, setActiveNav }) => (
-  <Router basename="/portfolio-react" className="router">
+  <Router basename="/sikandar-portfolio" className="router">
     <Nav setActiveNav={setActiveNav} activeNav={activeNav} />
     <Theme />
     {children}
@@ -42,7 +42,7 @@ const App = () => {
   }, [])
 
   return (
-    <RouterWrapper basename="/sikandar-portfolio/" activeNav={activeNav} setActiveNav={setActiveNav}>
+    <RouterWrapper activeNav={activeNav} setActiveNav={setActiveNav}>
       {screenWidth > 600 ? (
         <Routes>
           <Route path="/" element={<Header />} />

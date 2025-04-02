@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/images/me-about.jpg'
+import ME from '../../assets/images/pik1.jpeg'
 import { BsCodeSlash } from 'react-icons/bs'
 import { MdDeveloperMode } from 'react-icons/md'
 import { SiCodersrank } from 'react-icons/si'
