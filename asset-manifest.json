@@ -1,28 +1,19 @@
 {
   "files": {
     "main.css": "/sikandar-portfolio/static/css/main.d86aff66.css",
-    "main.js": "/sikandar-portfolio/static/js/main.32499207.js",
-    "static/media/project-12.png": "/sikandar-portfolio/static/media/project-12.efa6d0a5a36a372dbe4b.png",
+    "main.js": "/sikandar-portfolio/static/js/main.45675623.js",
+    "static/media/project-3.png": "/sikandar-portfolio/static/media/project-3.b639e88ff6a6ed580953.png",
+    "static/media/project-1.png": "/sikandar-portfolio/static/media/project-1.bfb48f4274966e4872eb.png",
     "static/media/pik1.jpeg": "/sikandar-portfolio/static/media/pik1.a933e1b18462df254e83.jpeg",
-    "static/media/project-3.png": "/sikandar-portfolio/static/media/project-3.2259e7f5e3045ea35516.png",
-    "static/media/project-1.png": "/sikandar-portfolio/static/media/project-1.5a03102abcdf3ce0e6cf.png",
-    "static/media/project-10.png": "/sikandar-portfolio/static/media/project-10.12fd70b18a6937a28b64.png",
+    "static/media/project-2.png": "/sikandar-portfolio/static/media/project-2.dcf68391b2f021561326.png",
     "static/media/Resume.pdf": "/sikandar-portfolio/static/media/Resume.f88cb8d7f9e430dd59b3.pdf",
     "static/media/pik.jpeg": "/sikandar-portfolio/static/media/pik.863c98553d436a9bbdb9.jpeg",
-    "static/media/project-6.png": "/sikandar-portfolio/static/media/project-6.0274770487dd42eda55a.png",
-    "static/media/project-2.png": "/sikandar-portfolio/static/media/project-2.4fede354817455fdef70.png",
-    "static/media/project-5.png": "/sikandar-portfolio/static/media/project-5.e5f5ae4451ded76a70bc.png",
-    "static/media/project-7.png": "/sikandar-portfolio/static/media/project-7.d1cfead1c5926ae7c3c6.png",
-    "static/media/project-11.png": "/sikandar-portfolio/static/media/project-11.44cb33aea00fcdda4fe6.png",
-    "static/media/project-4.png": "/sikandar-portfolio/static/media/project-4.7d7e22a06f4dce93d1d0.png",
-    "static/media/project-8.png": "/sikandar-portfolio/static/media/project-8.1d8e10cea1f7ea03f73c.png",
-    "static/media/project-13.jpg": "/sikandar-portfolio/static/media/project-13.b21896350fb9f837a54d.jpg",
     "index.html": "/sikandar-portfolio/index.html",
     "main.d86aff66.css.map": "/sikandar-portfolio/static/css/main.d86aff66.css.map",
-    "main.32499207.js.map": "/sikandar-portfolio/static/js/main.32499207.js.map"
+    "main.45675623.js.map": "/sikandar-portfolio/static/js/main.45675623.js.map"
   },
   "entrypoints": [
     "static/css/main.d86aff66.css",
-    "static/js/main.32499207.js"
+    "static/js/main.45675623.js"
   ]
 }
