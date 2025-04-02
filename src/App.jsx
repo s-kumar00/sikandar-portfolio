@@ -42,7 +42,7 @@ const App = () => {
   }, [])
 
   return (
-    <RouterWrapper activeNav={activeNav} setActiveNav={setActiveNav}>
+    <RouterWrapper basename="/sikandar-portfolio/" activeNav={activeNav} setActiveNav={setActiveNav}>
       {screenWidth > 600 ? (
         <Routes>
           <Route path="/" element={<Header />} />

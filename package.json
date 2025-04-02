@@ -1,6 +1,6 @@
 {
-  "homepage": "https://s-kumar00.github.io/Sikandar-Live-Portfolio/",
   "name": "portfolio-react",
+  "home": "https://s-kumar00.github.io/sikandar-portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
