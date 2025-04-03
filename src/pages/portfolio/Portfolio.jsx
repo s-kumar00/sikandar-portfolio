@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import PortFolioItem from './portfolioitem'
-import { personalProjects } from './projectsArray'
+import { personalProjects, collabProjects } from './projectsArray'
 
 const Portfolio = () => {
   const renderPortfolioItems = projects => {
@@ -16,10 +16,10 @@ const Portfolio = () => {
         <h3 className="portfolio__heading"> My Personal Projects</h3>
         <div className="portfolio__section">{renderPortfolioItems(personalProjects)}</div>
       </div>
-      {/* <div className="container portfolio__container">
+      <div className="container portfolio__container">
         <h3 className="portfolio__heading">Collaborative Projects</h3>
         <div className="portfolio__section">{renderPortfolioItems(collabProjects)}</div>
-      </div> */}
+      </div>
     </section>
   )
 }

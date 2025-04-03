@@ -1,6 +1,8 @@
 import IMG1 from '../../assets/images/projects_images/project-1.png'
 import IMG2 from '../../assets/images/projects_images/project-2.png'
 import IMG3 from '../../assets/images/projects_images/project-3.png'
+import IMG4 from '../../assets/images/projects_images/project-4.png'
+import IMG5 from '../../assets/images/projects_images/project-5.png'
 
 const personalProjects = [
   {
@@ -56,36 +58,36 @@ const personalProjects = [
     ],
     github: 'https://github.com/s-kumar00/Foodiago',
     live: 'https://foody-t6f1.onrender.com/'
-  }
-  // {
-  //   id: 3,
-  //   image: IMG3,
-  //   title: 'Portfolio',
-  //   description:
-  //     'This is my portfolio website which is made using HTML, CSS, and JavaScript. It shows my skills, projects, and other details.',
-  //   tools_tech: ['HTML', 'CSS', 'JavaScript'],
-  //   features: [
-  //     'Responsive',
-  //     'Deifferent Themes',
-  //     'Dark-Mode',
-  //     'Smooth-transition',
-  //     'Awesome UI Pages',
-  //     'Smooth Scrolling',
-  //     'Email contact form'
-  //   ],
-  //   github: 'https://github.com/Sagargupta16/PortFolio',
-  //   live: 'https://sagargupta.life/PortFolio/'
-  // },
-  // {
-  //   id: 5,
-  //   image: IMG5,
-  //   title: 'Snake Game',
-  //   description: 'This is a Classic Snake Game which is made using Unity Game Engine.',
-  //   tools_tech: ['Unity', 'C#'],
-  //   features: ['Snake Speed control', 'Food generation Speed Control', 'Score', 'Game Over Screen', 'Main Menu Screen'],
-  //   github: 'https://github.com/Sagargupta16/Snake-Game__UnityEngine',
-  //   live: '#'
-  // },
+  },
+  {
+    id: 3,
+    image: IMG5,
+    title: 'Portfolio',
+    description:
+      'This is my portfolio website which is made using HTML, CSS, and JavaScript. It shows my skills, projects, and other details.',
+    tools_tech: ['HTML', 'CSS', 'JavaScript'],
+    features: [
+      'Responsive',
+      'Different Themes',
+      'Dark-Mode',
+      'Smooth-transition',
+      'Awesome UI Pages',
+      'Smooth Scrolling',
+      'Email contact form'
+    ],
+    github: 'https://github.com/s-kumar00/PortFolio',
+    live: 'https://s-kumar00.github.io/PortFolio/'
+  },
+  {
+    id: 5,
+    image: IMG4,
+    title: 'Calculator',
+    description: 'This is a Classic calculator which is made using html, css, javascript',
+    tools_tech: ['Html','CSS', 'Javascript'],
+    features: ['Arithmetic Calculation','Screen Control'],
+    github: 'https://github.com/s-kumar00/Calculator',
+    live: 'https://s-kumar00.github.io/Calculator/'
+  },
   // {
   //   id: 6,
   //   image: IMG6,
@@ -150,29 +152,29 @@ const personalProjects = [
   // }
 ]
 
-// const collabProjects = [
-//   {
-//     id: 1,
-//     image: IMG1,
-//     title: 'Study Hub',
-//     description:
-//       'This is a Study Hub web app which is made using HTML , CSS & JavaScript. It is an prototype of a website which is used to study online.',
-//     tools_tech: ['HTML', 'CSS', 'JavaScript'],
-//     features: ['Responsive', 'Multi Page Application', 'Smooth UI'],
-//     github: 'https://github.com/sayani13-glitch/noobathon_ON-11_1',
-//     live: 'https://sayani13-glitch.github.io/noobathon_ON-11_1/'
-//   },
-//   {
-//     id: 2,
-//     image: IMG2,
-//     title: 'Tour Vibes',
-//     description:
-//       'This is an Full Stack web app which is made using React , NodeJS , ExpressJS , MongoDB. It is an prototype of a website which is used to See blogs of Tourist Places.',
-//     tools_tech: ['React', 'NodeJS', 'ExpressJS', 'MongoDB'],
-//     features: ['Responsive', 'Multi Page Application', 'Smooth UI', 'Authentication', 'CRUD Operations'],
-//     github: 'https://github.com/Sagargupta16/tour-vibes',
-//     live: '#'
-//   }
-// ]
+const collabProjects = [
+  {
+    id: 1,
+    image: IMG1,
+    title: 'MCA-Placement',
+    description:
+      'This is a MCA Placement Hub web app which is made using React, Nodejs, Mongodb, AWS S3, HTML , CSS & JavaScript. It is an prototype of a website which is used to find job as well record of placement',
+    tools_tech: ['HTML', 'CSS', 'JavaScript'],
+    features: ['Responsive', 'Multi Page Application', 'Smooth UI','Effecting search functionality', 'Charts of records'],
+    github: 'https://github.com/s-kumar00/mca_nitw',
+    live: '#'
+  },
+  // {
+  //   id: 2,
+  //   image: IMG2,
+  //   title: 'Tour Vibes',
+  //   description:
+  //     'This is an Full Stack web app which is made using React , NodeJS , ExpressJS , MongoDB. It is an prototype of a website which is used to See blogs of Tourist Places.',
+  //   tools_tech: ['React', 'NodeJS', 'ExpressJS', 'MongoDB'],
+  //   features: ['Responsive', 'Multi Page Application', 'Smooth UI', 'Authentication', 'CRUD Operations'],
+  //   github: 'https://github.com/Sagargupta16/tour-vibes',
+  //   live: '#'
+  // }
+]
 
-export { personalProjects}
+export { personalProjects,collabProjects}
