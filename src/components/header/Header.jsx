@@ -2,6 +2,7 @@ import React from 'react'
 import './header.css'
 import CtaComponent from './CTA'
 import ME from '../../assets/images/pik.jpeg'
+import me from '../../assets/images/walpaper.jpg'
 import HeaderSocials from './HeaderSocials'
 import TwComponent from './TW'
 
